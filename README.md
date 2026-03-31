@@ -30,10 +30,10 @@ walmart-sales-forecasting/
 │   ├── features.csv
 │   └── stores.csv
 │
-├── notebooks/
+├── code/
 │   └── walmart_forecasting.ipynb   # Notebook chính (đầy đủ pipeline)
 │
-├── reports/
+├── report/
 │   └── walmart_forecasting_report.pdf   # Báo cáo đồ án
 │
 └── README.md
