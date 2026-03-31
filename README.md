@@ -7,7 +7,15 @@
 
 Dự án xây dựng hệ thống dự báo doanh thu tuần cho **Top 3 Department có doanh thu cao nhất** (Dept 92, 95, 38) tại hệ thống siêu thị Walmart, dựa trên dữ liệu lịch sử từ 2010 đến 2012. Kết quả dự báo được ứng dụng trực tiếp vào việc **phân loại mức nhu cầu** và **lập kế hoạch tồn kho** cho 39 tuần tiếp theo.
 
-> 📚 Đồ án môn học: Phân tích Dữ liệu Nâng cao
+> 📚 Đồ án môn học: Phân tích Dữ liệu Nâng cao — 252BIM5024
+
+| STT | Tên thành viên |
+|---|---|
+| 1 | Ma Thị Thu Hà |
+| 2 | Nguyễn Như Huyền |
+| 3 | Vũ Minh Nhật |
+| 4 | Nguyễn Linh Yến Nhi |
+| 5 | Trần Quang Vũ |
 
 ---
 
