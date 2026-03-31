@@ -69,7 +69,7 @@ Phân loại nhu cầu & Kế hoạch tồn kho
 
 ## 📊 Dữ liệu
 
-**Nguồn:** [Walmart Sales Forecast — Kaggle](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)
+**Nguồn:** [Walmart Sales Forecast – Kaggle](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)
 
 | File | Mô tả | Kích thước |
 |---|---|---|
